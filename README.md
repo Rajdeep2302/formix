@@ -256,16 +256,3 @@ Ramakrishna Mission Vivekananda Centenary College
 MIT License
 
 ---
-
-## Future Work
-
-Planned improvements:
-
-* Export responses as CSV
-* Edit published forms
-* Email notifications
-* Admin controls
-* Validation rules
-* Response charts
-
----
