@@ -1,0 +1,17 @@
+/* src/tailwind.css or src/index.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+/* my color palette
+1. #caf0f8 -> for glass effects
+2. #48cae4 -> for heading or navbar background
+3. #03045e -> header text or question text
+4. #000814 -> answer text or some others text
+5. #f1fffa -> app background */
+
+/* my fonts
+1. font-family: "Stalinist One", sans-serif; -> My website heading
+2. font-family: "Paprika", system-ui; -> website normal text and question's heading
+3. font-family: "Courgette", cursive; -> Question heading */
