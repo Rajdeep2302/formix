@@ -19,7 +19,11 @@
     "mongoose": "^8.20.1"
   },
   "overrides": {
-    "@mongodb-js/saslprep": "1.1.1",
-    "mongodb": "6.5.0"
-  }
+  "mongodb": "6.5.0",
+  "@mongodb-js/saslprep": "1.1.1"
+}
+,"engines": {
+  "node": "20.11.1"
+}
+
 }
